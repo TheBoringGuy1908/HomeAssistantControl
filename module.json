@@ -1,0 +1,21 @@
+{
+  "id": "home-assistant-control",
+  "title": "Home Assistant Control",
+  "description": "A simple module to trigger home assistant actions on combat turns",
+  "authors": [
+    {
+    "name": "TheBoringGuy1908"
+    }
+  ],
+  "version": "1.0.0",
+  "scripts": [
+     "scripts/hac.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "HAC": {
+    "SETTINGS": {
+      "CONFIG": {
+        "Label": "Configure Pixels",
+        "Name": "Pixels Configuration"
+      },
+      "homeassistantUrl": {
+        "Name": "Home Assistant URL"
+      },
+      "homeassistantToken": {
+        "Name": "Home Assistant API Token"
+      },
+	  "playerScene": {
+        "Name": "Home Assistant Scene for Player: "
+      }
+    }
+  }
+}
